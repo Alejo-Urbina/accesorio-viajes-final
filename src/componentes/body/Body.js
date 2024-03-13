@@ -4,6 +4,7 @@ import Mensajes from '../mensajes/Mensajes';
 import Images from '../images/Images';
 import Lend from '../lend/Lend';
 import Buy from '../buy/Buy';
+import List from '../list/List';
 
 function Body() {
   return (
@@ -12,6 +13,7 @@ function Body() {
       <Images />
       <Lend />
       <Buy />
+      <List />
     </div>
   );
 }
