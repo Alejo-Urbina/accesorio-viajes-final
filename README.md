@@ -1,3 +1,11 @@
+Buen dia ingeniera,
+
+Se necesita instalar axios para poder hacer el consumo al api, me toco usar un API pública JSONPlaceholder para obtener una lista de "posts" ficticios en lugar de accesorios de viaje.
+
+Ya queda listo con los 8 componentes quedaron totalmente funcionales.
+
+El reposritorio esta alojado en https://github.com/Alejo-Urbina/accesorio-viajes-final
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
